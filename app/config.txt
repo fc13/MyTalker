@@ -7,3 +7,11 @@ MasterSecret:3CUyPgpZke8kotKAivEyn1
 阿里云配置：
 AccessKeyID：LTAI3Y3On8Kzo8kI
 AccessKeySecret：64JogxtRTYxBgR9dELD96cihwUswUO
+
+git的一些操作：
+    git tag:查看tag
+    git tag -a tag_name -m 'tag描述'：增加tag
+    git checkout tag_name:切换到tag_name上，tag_name是一个临时分支，不允许操作
+    git branch:查看所有分支
+    git checkout -b 'branch_name':切换到指定分支
+
